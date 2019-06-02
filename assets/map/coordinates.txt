@@ -1,0 +1,9 @@
+atlanta 370.5 396.5
+atlantic_sea 682.6 1482.0
+blue_ridge 456.5 129.5
+coastal_plain 302.5 1110.5
+piedmont 206.9 276.5
+savannah 1001.5 766.5
+sea_of_billies 0.0 0.0
+sea_of_carolina 986.5 0.0
+valley_ridge 89.6 134.7
